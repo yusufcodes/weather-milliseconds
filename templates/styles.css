@@ -14,11 +14,11 @@ body {
     margin: 0 auto;
     padding: 0 .3rem;
 }
-ol {
+.weatherList {
     padding-left: 0;
     list-style-type: none;
 }
-img {
+.lazy {
     max-width: 100%;
     width: 500px
 }
